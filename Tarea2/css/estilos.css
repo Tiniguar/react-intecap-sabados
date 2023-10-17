@@ -1,0 +1,17 @@
+.bombillo {
+    height: 190px;
+    width: 190px;
+    background-color: #555;
+    border-radius: 50%;
+    
+}
+
+.trapezoide {
+    margin-top: -30px;
+	border-bottom: 85px solid #222;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 130px;
+    margin-left: 32px;
+}
